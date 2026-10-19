@@ -1,0 +1,19 @@
+FAVORITE RECIPES (read by the weekly food plan task)
+Adapted versions. Rotate these in; note the season each suits.
+
+== Recipe Name (Category, e.g. Soups, Sides, Bakes)
+Source: Where it came from (publication, author, site)
+Makes: number of servings (and portion size if useful)
+Season: fall and winter / spring and summer / any
+Adapted: one line on what changed from the original and why
+Ingredients:
+  - amount, ingredient, prep note
+  - amount, ingredient
+Steps:
+  1. First step in one or two sentences.
+  2. Next step.
+Leftovers: fridge 3 to 4 days; freezer 2 to 3 months (or "do not freeze")
+Notes: anything the cook should know (kid-friendly swaps, what to serve it with)
+
+== Next Recipe (Category)
+Source: ...

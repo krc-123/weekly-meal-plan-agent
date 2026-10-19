@@ -1,0 +1,11 @@
+Week of YYYY-MM-DD (Fri dinner to Thu lunch)
+  Fri: Dinner name (source)
+  Sat: Charcuterie or simple board night
+  Sun: Dinner name (source)
+  Mon: Dinner name (source)
+  Tue: Dinner name (source)
+  Wed: Dinner name (source)
+  Thu: Dinner name (source)
+  Also: weekend bake; any notable lunch; anything dropped or moved and why
+
+Week of YYYY-MM-DD ...
